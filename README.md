@@ -1,5 +1,3 @@
-# random-app
+## VintageATX
 
-## Purpose
-
-Application that is so random one can not even fathom how it was created. Hopefully you enjoy the spontaneousness as much as I do mwuahhahahahahaaha.
+Marketplace App that allows user to view vintage items from only LOCALLY OWNED atx vintage shops. Categories include electronics, clothing, local artwork, and more to come!
