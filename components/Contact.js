@@ -10,7 +10,7 @@ import {
   ProgressViewIOSComponent,
 } from "react-native";
 import { Header } from "react-native/Libraries/NewAppScreen";
-const homePage = () => {
-  return <header>HELOOOOOOOO</header>;
+const Contact = () => {
+  return <header>CONTACT MEEEEE :)</header>;
 };
-export default homePage;
+export default Contact;
