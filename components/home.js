@@ -11,6 +11,6 @@ import {
 } from "react-native";
 import { Header } from "react-native/Libraries/NewAppScreen";
 const homePage = () => {
-  return <header>HELOOOOOOOO</header>;
+  return <Text>Helloooo</Text>;
 };
 export default homePage;

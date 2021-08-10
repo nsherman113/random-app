@@ -11,6 +11,6 @@ import {
 } from "react-native";
 import { Header } from "react-native/Libraries/NewAppScreen";
 const Contact = () => {
-  return <header>CONTACT MEEEEE :)</header>;
+  return <Text>CONTACT MEEEEEEEE</Text>;
 };
 export default Contact;

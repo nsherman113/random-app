@@ -11,6 +11,6 @@ import {
 } from "react-native";
 import { Header } from "react-native/Libraries/NewAppScreen";
 const About = () => {
-  return <header>ABOUT MEEEEEEEE</header>;
+  return <Text>ABOUT MEEEEE :)</Text>;
 };
 export default About;

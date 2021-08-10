@@ -11,6 +11,6 @@ import {
 } from "react-native";
 import { Header } from "react-native/Libraries/NewAppScreen";
 const Inventory = () => {
-  return <header>ABOUT MEEEEEEEE</header>;
+  return <Text>Inventoryyyyyyyyy</Text>;
 };
 export default Inventory;
